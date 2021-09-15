@@ -22,8 +22,8 @@ table,th,td{
     grid-template-rows: 100px 100px 100px;
     grid-column-gap: 8px;
     grid-row-gap: 8px;
-    height: 300px;
-    width: 300px;
+    height: 316px;
+    width: 316px;
 }
 .div1{
     background-color: coral;
@@ -35,8 +35,8 @@ table,th,td{
     width:12px;
 }
 .below_play_area {
-    width: 35%;
-    padding-top: 2em;
+    width: 65%;
+    padding-top: 1em;
     display: flex;
     text-align: center;
     margin-left: auto;
